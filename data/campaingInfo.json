@@ -1,0 +1,20 @@
+[
+    {   
+        "itemBox": ["Shotgun Shell - A","Shotgun Shell - A","Dog Whistle - C"],
+        "characterReserve": [
+            {
+                "id":"brad",
+                "name": "Brad Vickers",
+                "life": "fine"
+            },
+            {
+                "id":"richard",
+                "name": "Richard Aiken",
+                "life": "good"
+            }
+        ],
+        "dangerlvl": 6,
+        "narrativeCards": ["It's Stuck!", "Second Chance", "Poisoned Teammate"],
+        "misionCards": ["Under Attack!"]
+    }
+]
